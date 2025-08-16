@@ -1,0 +1,25 @@
+# Compiled binaries
+lru
+fifo
+
+# Object files
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.txt
+!*.input.txt
+!commands.txt
+
+# Temporary files
+*~
+*.tmp
+*.swp
+*.swo
